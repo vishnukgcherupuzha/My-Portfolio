@@ -208,6 +208,25 @@ button:hover{
   font-size: 35px;
   color: aqua;
 }
+.resume{
+  background-color: crimson;
+  padding: 20px;
+  z-index: 100;
+  border-radius: 30px;
+  text-decoration: none;
+  transition-duration: 1000ms;
+}
+.resume:hover{
+  color: darkturquoise;
+  background: deeppink;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  text-align: right;
+  margin: 0 0 25px 10px;
+}
 /* media query */
 @media screen and (max-width: 860px) {
   .container-header{
@@ -226,8 +245,7 @@ button:hover{
   } 
   ul li i{
      padding: 10px 35px; 
-     border-radius: 30px;
-     
+     border-radius: 30px; 
    } 
    
 }
