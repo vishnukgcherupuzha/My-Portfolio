@@ -156,7 +156,7 @@ class Resume extends Component {
                                         </tr>
                                         <tr>
                                             <td><i className="fa fa-globe" aria-hidden="true"></i></td>
-                                            <td><a href="https://vishnukgcherupuzha.github.io/My-Portfolio/" rel="noopener noreferrer" target="_blank">vishnu-kg-cherupuzha</a></td>
+                                            <td><a href="https://vishnukgcherupuzha.github.io/My-Portfolio/" rel="noopener noreferrer" target="_blank" style={{color:"black"}}>vishnu-kg-cherupuzha</a></td>
                                         </tr>
                                         
                                     </tbody>
