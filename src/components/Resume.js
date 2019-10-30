@@ -151,6 +151,10 @@ class Resume extends Component {
                                             <td> vishnukgcherupuzha@gmail.com</td>
                                         </tr>
                                         <tr>
+                                            <td><i className="fa fa-globe" aria-hidden="true"></i></td>
+                                            <td><a href="https://vishnukgcherupuzha.github.io/My-Portfolio/" rel="noopener noreferrer" target="_blank">vishnu-kg-cherupuzha</a></td>
+                                        </tr>
+                                        <tr>
                                             <td><i className="fa fa-phone" aria-hidden="true"></i></td>
                                             <td> +91-8880252601<br></br> +91-8281231326<br></br> +91-6238141805</td>
                                         </tr>
