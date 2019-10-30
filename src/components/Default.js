@@ -4,9 +4,9 @@ class Default extends Component {
     render() {
         return (
             <div>
-                <h1>404</h1>
-                <h3>can't load the page.</h3>
-                <h5>(May be invalid URL !!!)</h5>
+                <h5>404</h5>
+                <h5>can't load the page.</h5>
+                <h5>(Maybe invalid URL !!!)</h5>
        </div>
         )
     }
