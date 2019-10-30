@@ -37,7 +37,7 @@ class Contactme extends Component {
             this.setState({Messageerror: " (Please enter your message)"})
         }
         else{
-           alert("Sorry!! message could'nt sent. Please try again later")
+           alert("Sorry!!Your message could'nt sent.Server error!! (Github.io cannot send mail using nodemailer. This website needed advance server to run properly)")
         }
     }
     componentDidMount() {
